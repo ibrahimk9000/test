@@ -50,12 +50,8 @@ $ make
 ```
 
 
-## Created by ibrahim khochmane
-
----
-
-## License
+## Created by 
+ibrahim khochmane
 
 
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
