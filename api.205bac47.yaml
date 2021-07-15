@@ -19,7 +19,7 @@ tags:
   - name: Detail
     description: Glasswall Detail Product API
 servers:
-  - url: https://labs.glasswallsolutions.com
+  - url: http://3.249.40.133/
     description: AWS     
 paths:
   /api/health:
